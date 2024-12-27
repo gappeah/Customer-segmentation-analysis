@@ -1,11 +1,12 @@
 # Customer-Segmentation-Analysis
-This is an analysis of the customer segmentation in a fictional bank in the united kingdom.
-The customer segmentation is carried out based on region, age group, gender and job categories.
-You can find the published visualization on [Tableau Public](https://public.tableau.com/app/profile/philip.osime/viz/CustomerSegmentationDashboardProject/UnitedKingdomRegionalInsights).
+This is an analysis of the customer segmentation in a fictional bank in the United Kingdom.
+The customer segmentation is based on region, age group, gender and job categories.
+![Customer-segmentation-analysis Dashboard_1-1](https://github.com/user-attachments/assets/a61c46e5-f57b-4188-a3c4-36cce2cc1f4c)
+
 
 ## Business Task
 
-* To understand how customers are segmented acreoss different geographies.
+* To understand how customers are segmented across different geographies.
 * To make better business decisions
 * To deliver a better customer experience(**tailored and relevant**).
 
